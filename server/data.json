@@ -3,10 +3,12 @@
     {
       "name": "Audi 250",
       "owner": "admiralty20",
+      "price": "100000",
       "last_bidder": "csAvengers"
     },
     {
       "name": "Lamborghini S50",
+      "price": "100000",
       "owner": "susaske40",
       "last_bidder": "Adeyemi"
     },
